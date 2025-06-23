@@ -1,0 +1,21 @@
+{
+  "name": "htdocs",
+  "version": "1.0.0",
+  "main": "mc-query.js",
+  "dependencies": {
+    "minecraft-protocol": "^1.51.0",
+    "minecraft-protocol-forge": "^1.0.0",
+    "mineflayer": "^4.23.0",
+    "prismarine-auth": "^2.5.0",
+    "rcon": "^1.1.0",
+    "rcon-srcds": "^2.1.0",
+    "typescript": "^5.7.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
